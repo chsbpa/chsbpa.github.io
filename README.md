@@ -25,6 +25,6 @@
     <li><strike>Emerging Advisor</strike></li>
     <li><strike>Emerging Professional</strike></li>
     <li><strike>Hall of Fame</strike></li>
-    <li>Outstanding Service</li>
-    <li>Student of the Year</li>
+    <li><strike>Outstanding Service</strike></li>
+    <li><strike>Student of the Year</strike></li>
 </ul>
