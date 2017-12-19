@@ -107,6 +107,10 @@ body {
     font-size: 12px;
 }
 
+.container-fluid{
+    text-align: center;
+}
+
 @media(min-width:768px) {
     #wrapper {
         padding-left: 0;
