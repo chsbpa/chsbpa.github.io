@@ -23,7 +23,7 @@
     <li>Professional Cup</li>
     <li><strike>Advisor of the Year Award</strike></li>
     <li><strike>Emerging Advisor</strike></li>
-    <li>Emerging Professional</li>
+    <li><strike>Emerging Professional</strike></li>
     <li>Hall of Fame</li>
     <li>Outstanding Service</li>
     <li>Student of the Year</li>
