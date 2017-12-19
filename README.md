@@ -24,7 +24,7 @@
     <li><strike>Advisor of the Year Award</strike></li>
     <li><strike>Emerging Advisor</strike></li>
     <li><strike>Emerging Professional</strike></li>
-    <li>Hall of Fame</li>
+    <li><strike>Hall of Fame</strike></li>
     <li>Outstanding Service</li>
     <li>Student of the Year</li>
 </ul>
