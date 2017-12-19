@@ -21,8 +21,8 @@
     <li>Membership Explosion Award</li>
     <li>Social Media Award</li>
     <li>Professional Cup</li>
-    <li>Advisor of the Year Award</li>
-    <li><strike>Emerging Advisor</strike></li>
+    <li><strike>Advisor of the Year Award</strike></li>
+    <li>Emerging Advisor</li>
     <li>Emerging Professional</li>
     <li>Hall of Fame</li>
     <li>Outstanding Service</li>
