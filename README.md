@@ -22,7 +22,7 @@
     <li>Social Media Award</li>
     <li>Professional Cup</li>
     <li><strike>Advisor of the Year Award</strike></li>
-    <li>Emerging Advisor</li>
+    <li><strike>Emerging Advisor</strike></li>
     <li>Emerging Professional</li>
     <li>Hall of Fame</li>
     <li>Outstanding Service</li>
