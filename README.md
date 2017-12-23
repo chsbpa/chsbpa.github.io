@@ -14,13 +14,13 @@
     <li>Safety Awareness</li>
     <li>Service Learning Indv.</li>
     <li>Special Olympics</li>
-    <li>Marking and Public Relatoins</li>
-    <li>Merit Scholar</li>
-    <li>Chapter Activities Award of Excllence</li>
-    <li>Recruiter of the Year</li>
-    <li>Membership Explosion Award</li>
-    <li>Social Media Award</li>
-    <li>Professional Cup</li>
+    <li><strike>Marking and Public Relatoins</strike></li>
+    <li><strike>Merit Scholar</strike></li>
+    <li><strike>Chapter Activities Award of Excllence</strike></li>
+    <li><strike>Recruiter of the Year</strike></li>
+    <li><strike><Membership Explosion Award</stike></li>
+    <li><strike>Social Media Award</stike></li>
+    <li><strike>Professional Cup</strike></li>
     <li><strike>Advisor of the Year Award</strike></li>
     <li><strike>Emerging Advisor</strike></li>
     <li><strike>Emerging Professional</strike></li>
