@@ -18,7 +18,7 @@
     <li><strike>Merit Scholar</strike></li>
     <li><strike>Chapter Activities Award of Excllence</strike></li>
     <li><strike>Recruiter of the Year</strike></li>
-    <li><strike><Membership Explosion Award</stike></li>
+    <li><strike>Membership Explosion Award</stike></li>
     <li><strike>Social Media Award</stike></li>
     <li><strike>Professional Cup</strike></li>
     <li><strike>Advisor of the Year Award</strike></li>
