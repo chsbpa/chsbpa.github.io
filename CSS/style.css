@@ -1,6 +1,6 @@
 body {
     overflow-x: hidden;
-    background-color: #D3D3D3;
+    background-color: #792424;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -24,7 +24,7 @@ body {
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #49494b;
+    background: #0f0f61;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -122,4 +122,12 @@ body {
         position: relative;
         margin-right: 0;
     }
+}
+
+.container-fluid{
+    color: white;
+}
+
+.main-page{
+    text-align: center;
 }
